@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Balaji</title>
+</head>
+<body>
+
+
+<h1>Name :<h2>Balaji</h2></h1>
+<h1>Email :<h2>xyz1234@gmail.com</h2></h1>
+<h1>Phone :<h2>2222222223</h2></h1>
+<h1>Location :<h2>Mexico</h2></h1>
+  
+<div>
+  <h1><u>Summary</u></h1>
+  <hr />
+  <p>Senior Web Developer specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including HTML5, PHP OOP, JavaScript, CSS, MySQL. Strong background in project management and customer relations.</p>
+</div>
+<div>
+  <h1><u>Skill Highlights</u></h1>
+  <hr />
+  <ul>
+    <li>Project management</li>
+    <li>Strong decision maker</li>
+    <li>Complex problem solver</li>
+    
+    <li>Creative design</li>
+    <li>Innovative</li>
+    <li>Service-focused</li>
+
+  </ul>  
+  </div>
+  <div>
+    <h1><u>Experience</u></h1>
+    <hr />
+    <h3>Web Developer:</h3>
+    <p>09/2015 to 05/2019</p>
+    <h3>Luna Web Design:</h3>
+    <p> New York</p>
+    <ul>
+      <li>Cooperate with designers to create clean interfaces and simple, intuitive interactions and experiences.</li>
+      <li>Develop project concepts and maintain optimal workflow.</li>
+      <li>Work with senior developer to manage large, complex design projects for corporate clients.</li>
+      <li>Complete detailed programming and development tasks for front end public and internal websites as well as challenging back-end server code.</li>
+      <li>Carry out quality assurance tests to discover errors and optimize usability.</li>
+    </ul>
+  </div>
+  <div>
+    <h1><u>Education</u></h1>
+    <hr />
+    <h3>Bachelor of Science:</h3>
+    <a href="http://www.wiltonhighschool.org/pages/Wilton_High_School"target="blank">Computer Information Systems - 2014
+Columbia University, NY"</a>
+</div>
+<div>
+  <h1><u>Certifications</u></h1>
+  <h3>PHP Framework (certificate): </h3><p>Zend, Codeigniter, Symfony.</p>
+  <h3>Programming Languages: </h3><p>JavaScript, HTML5, PHP OOP, CSS, SQL, MySQL.</p>
+</div>
+</body>
+</html>
